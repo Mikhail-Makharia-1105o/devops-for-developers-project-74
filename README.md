@@ -2,3 +2,5 @@
 [![Actions Status](https://github.com/Mikhail-Makharia-1105o/devops-for-developers-project-74/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Mikhail-Makharia-1105o/devops-for-developers-project-74/actions)
 
 [![CI](https://github.com/shururu/devops-for-developers-project-74/actions/workflows/push.yml/badge.svg)](https://github.com/shururu/devops-for-developers-project-74/actions/workflows/push.yml)
+
+67
