@@ -9,3 +9,4 @@ temp/
 *.sqlite
 .cache
 .npm
+node_modules
